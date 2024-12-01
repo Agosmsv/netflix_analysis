@@ -1,6 +1,6 @@
 # # Netflix Analysis
 
-## Business Case
+## Business Case📊
 
 The entertainment industry is rapidly evolving, with streaming platforms like Netflix leading the charge in content distribution. Netflix, as one of the largest streaming services globally, has an extensive library of TV shows and movies catering to various audiences. Analyzing the Netflix content database helps uncover valuable insights into the platform's content trends, audience targeting, and business strategy. By understanding these trends, Netflix can refine its content strategy, optimize its offerings, and continue to attract and retain users across diverse markets.
 
@@ -8,7 +8,7 @@ The entertainment industry is rapidly evolving, with streaming platforms like Ne
 
 The motivation behind this analysis is to identify and understand the trends in Netflix's content library as of 2019. By analyzing the available data, we aim to highlight key insights into the geographical distribution of content, the types of shows and movies available, their ratings, durations, and how Netflix may have tailored its offerings to appeal to a specific demographic. The findings can be valuable for content creators, marketers, and Netflix itself to better understand its content strategy and improve user engagement.
 
-## Description of the Dataset
+## Description of the Dataset 🎞️
 
 The dataset contains information about TV shows and movies available on Netflix as of 2019. It includes details such as:
 - **Title**: Name of the TV show or movie
